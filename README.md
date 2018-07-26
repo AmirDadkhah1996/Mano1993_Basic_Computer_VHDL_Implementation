@@ -1,1 +1,1 @@
-# Simulation-of-a-Basic-Computer-Mano-1993-
+A basic computer is designed with minimum hardware components to perform the basic tasks that a computer should perform (Mano 1993). The organization of the computer is defined by its internal registers. The internal organization of a digital system is defined by sequence of micro-operations that perform on data stored in its registers. The computer is capable of executing various micro-operations and can be instructed to perform a sequence of operations.
